@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should match snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Should match snapshot: 
+    <DocumentFragment>
+      <div>
+        <button>
+          X
+        </button>
+      </div>
+    </DocumentFragment>
+   1`] = `
+<DocumentFragment>
+  <div>
+    <button>
+      X
+    </button>
+  </div>
+</DocumentFragment>
+`;
